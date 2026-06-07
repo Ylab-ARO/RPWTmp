@@ -8,5 +8,5 @@ This repository contains environmental and meteorological datasets used to drive
 * **IMS Data:** Ambient temperature and meteorological time-series retrieved from the Israel Meteorological Service (IMS) stations.
 
 ## Authors
-* **Yonatan Schwartz** – The Hebrew University of Jerusalem
+* **Yonatan Schwartz** – The Hebrew University of Jerusalem Yonatan.schwartz@mail.huji.ac.il
 * **Gal Yaacobi** (Corresponding Author) – Agricultural Research Organization, Volcani Institute (yaacobig@volcani.agri.gov.il)
